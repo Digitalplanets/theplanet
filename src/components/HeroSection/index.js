@@ -28,7 +28,7 @@ function HeroSection() {
       <HeroContent>
         <HeroH1>Planet</HeroH1>
         <HeroP>
-          become a citizen
+          become a citizen!
         </HeroP>
         <HeroBtnWrapper>
           <Button
