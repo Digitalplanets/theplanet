@@ -28,7 +28,7 @@ function HeroSection() {
       <HeroContent>
         <HeroH1>Planet</HeroH1>
         <HeroP>
-          Join Our Community!
+          become a citizen
         </HeroP>
         <HeroBtnWrapper>
           <Button
@@ -43,7 +43,7 @@ function HeroSection() {
             onMouseEnter={onHover}
             onMouseLeave={onHover}
           >
-            enter simulation {hover ? <ArrowForward /> : <ArrowRight />}
+            escape your simulation {hover ? <ArrowForward /> : <ArrowRight />}
           </Button>
         </HeroBtnWrapper>
       </HeroContent>
